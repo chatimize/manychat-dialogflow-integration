@@ -1,0 +1,4 @@
+protobuf==3.14.0
+dialogflow==1.1.0
+Flask==1.1.2
+requests==2.25.1
