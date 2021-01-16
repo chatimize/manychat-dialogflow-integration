@@ -7,11 +7,11 @@ Simply fork this repository, fill in your keys, upload your Google Service Accou
 ## Contributors to this project
 This project has been made available because of:
 
-GAN Media (for providing the Python code)
-Email: daian@ganmedia.com
-Website: https://ganmedia.com/
+GAN Media (for providing the Python code)<br/>
+Email: daian@ganmedia.com<br/>
+Website: https://ganmedia.com/<br/>
 
-Tijs Verbeek (for creating the set up for Digital Ocean and implementation of the Python file)
-Github: keebrev
-E-mail: tijs@verbeeksolutions.com
-Website: https://verbeeksolutions.com
+Tijs Verbeek (for creating the set up for Digital Ocean and implementation of the Python file)<br/>
+Github: keebrev<br/>
+E-mail: tijs@verbeeksolutions.com<br/>
+Website: https://verbeeksolutions.com<br/>
