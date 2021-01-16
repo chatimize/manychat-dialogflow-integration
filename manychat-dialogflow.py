@@ -1,4 +1,5 @@
 '''
+    This code is a bridge between ManyChat and DialogFlow - and originally made by GAN Media.
     This code is a bridge between ManyChat and DialogFlow.
     You can use it to handle the text inputs that ManyChat do not understand with DialogFlow.
     Upload the code to your server and run it as a Flask app.
@@ -8,15 +9,7 @@
     Set your DialogFlow intent's responses to text or custom payload and use {"flow": "flow_id"} to call an specific flow.
     Enjoy!
 
-    YOUTUBE VIDEO: https://www.youtube.com/watch?v=6AA7NW3-LfQ
-    Notes:
-    I can't provide support to this code, you need to install it, run and set it up by yourself.
-    If you need help to install it on your own server or want me to host it for you,
-    please contact me and I will be happy to help for a fairly price.
-    Author: Daian Gan
-    Email: daian@ganmedia.com
-    Website: https://ganmedia.com/
-    Messenger: https://m.me/ganmedia/
+    Original Youtube video (in Spanish): https://www.youtube.com/watch?v=6AA7NW3-LfQ
 '''
 
 import json
