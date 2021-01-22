@@ -120,7 +120,6 @@ class ManyChat:
                     ]
                 }
             },
-            'message_tag': 'ACCOUNT_UPDATE'
         }
 
         response = requests.post(
