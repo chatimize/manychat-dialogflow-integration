@@ -119,8 +119,7 @@ class ManyChat:
                         } for message in messages
                     ]
                 }
-            },
-            'message_tag': 'ACCOUNT_UPDATE'
+            }
         }
 
         response = requests.post(
