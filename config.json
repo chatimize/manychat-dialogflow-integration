@@ -1,7 +1,12 @@
-/* 
-  
-  This is a placeholder file. You can generate this file using this page:
-    
-  https://cloud.google.com/docs/authentication/getting-started
- 
-*/
+{
+  "type": "service_account",
+  "project_id": "mindful-life-334311",
+  "private_key_id": "ca3349fabf6087015272eff7ff77b4d2b026adee",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC+rPFrqDqW/drM\nyGOJCfJ38B8VAV3T3/cBjJ1r7/csXlhemyunctNBsu14FoGICmD6CAUQB/Kbj02/\n76ebFlQyRA7A+4oqf7GBWBpjzQhzFOn9kTHrQY/fX10tMZBncyxXiIjlo3yXa9rt\nNIP2V5I2cIni1RrIabjbtBuMut5ulC6Bti7VXuPHCgpnHWhfYdb+BlTZNkD7xaNF\nHf24yVDYv0ocoqSyxRwmXAo20Ve052XaIaXlgm6Bb9mPOJsYB+4Sv+n7o/ajJKws\niq4aPkEYKXF798R8ttBqTEmTX42U6bJDSu5yCPYu4zV8Jfx2qf0wnB7z0rCLYQ4O\ngXOEfLXVAgMBAAECggEABaK06/qn6KiOG/lcP8Okf/j/4i4NKOL4uPn/+R25j30m\nXX12l9dj+RAhxqfbojq0TQ+JnsStXf2pTZ/2szXAvU+XpAqLNeBaTbld5k88DbKz\ni8QL1qk0aGS4K0rIutYDnH6zlR3048DTUql3sQM7lhJTcPnddcjyJsQ3ADzRsDDx\n5vHJtNmMDXMyUxH314AX7RCggn5fivtKT9zTQUmE1aKYlTLiQsN0gtVve0UOUt+l\nWbFxUkK8uHjxGvL3mU+5t6FIYWF54ZLKKHYBgrm7C/cUvWZCCy1PGVLBejlISjpE\nMk/t8vJulSWgh8OeEfjr2+hfkHybPdlxeOv0qQ3RzQKBgQDw+aQjUdS8qJEZW3lB\nS5b9EXPrDtwF0nu3olMadXk9QS9po7GSx3/jOSbW07QoCB4wzlJ4GrJYcSI73dcX\nMt+rAwGykL/KOsj1X48637u6qzSsKQ5Q22Tmf9ke9SnpeBc2gNimRljRuwGr7WnK\nU6XAzcEXP5r1AN3p+AqyTSQxYwKBgQDKkHAPIU8Wuy9bRPYa/RGiZQgYOta5VIc0\nkduGVl/JsUbk3GYbFbt42vnzMeDXZjcBU1Y/aL10ItnDxTIg3j3u05vaSXkWMpyC\nblTtpamLF24A3a76HV/i9bPz57lW/nu6dehE4gXYpYvwMlVlEuTNp/I6eR5C0N1d\nqaMVqsr9ZwKBgQC5QFFMzcXr2vLhOY84ATJsDpS8qcm/uBZgD6wvdQvlaU1Xuv3y\nRugr+G3BTTL8a3E6OALyTiO5FhApUdve+78zKraNXfXzM8n1yKbFreYWFTQC/fUB\neAhTowl5YSP9VdMSlW74NLBnW4pnb7aaUj/kvsioZL9thmMTURp4BBHE3QKBgFXu\ndDtW7BA+lFZpqOXGGecEaSyuOU0h2MGqZrBUkAomFGceQIqY65DXhFVxAWsfR5Je\nYiZALq7H4g206BEddrSMPH+bz6xlCBQk7g5qysPgyp+/a21bbMQBa7e6w9tt1dtC\nDai7IbPIdtcM40EfhMThzFaV7wp1RJNpVW/ppnddAoGAWzpExzwcaAjqgRoerfEk\nY2l9z1GgM5+HdpNBXDRXBqVRe5YlfmFMJceIDxAUL7A81mfbAF0HxuFg1GyeBKuL\nPLYs8/3MQWOj2ARBKcLKCIKgn4QfrRbUyiLHROV0ufrxXBgwXh6TAvXDHFqVyV2u\nT4Q6qFyQOW+3Y6FNmfGQPJg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "manychat-dailogflow-spur@mindful-life-334311.iam.gserviceaccount.com",
+  "client_id": "110677225947875390603",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/manychat-dailogflow-spur%40mindful-life-334311.iam.gserviceaccount.com"
+}
